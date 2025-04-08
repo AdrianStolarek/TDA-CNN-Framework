@@ -1,0 +1,15 @@
+[project]
+name = "tda-algo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "keras>=3.8.0",
+    "mlflow>=2.20.3",
+    "numpy==1.26.4",
+    "opencv-python>=4.11.0.86",
+    "optuna>=4.2.1",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+]

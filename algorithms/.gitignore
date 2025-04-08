@@ -1,0 +1,6 @@
+venv3.12
+.venv
+mlruns
+my.db
+data/
+tmp-cache/
