@@ -28,6 +28,6 @@ This repository includes a detailed research report containing:
 - Clear documentation of experimental assumptions
 - Identifies potential optimization opportunities and research questions
 
-Sample results below:
+Sample results below (read the report for more context):
 
   ![final_long_1000](https://github.com/user-attachments/assets/cc86a095-287d-4854-b94f-5059d4969a53)
